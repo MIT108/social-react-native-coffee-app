@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Design
+
+Get the design template from
+
+- [Figma](https://www.figma.com/design/23pSaD9dorSPzvvnJEINYe/Coffee-Shop-Mobile-App-Design-(Community)?node-id=2-2&node-type=canvas&t=wJsxuwBqTFygC41u-0): View this community figma design.
